@@ -185,8 +185,19 @@ a,
 }
 
 /* DROP DOWN MENU */
+.dropdown-content {
+	width: 320px;
+	height: 440px;
+}
+.my-apps {
+	display: flex;
+	flex-direction: column;
+}
 .app-links {
-	display: inline-block;
+	display: block;
 	width: 85px;
 	height: 85px;
+}
+.dropdown-icons {
+	height: 32px;
 }
