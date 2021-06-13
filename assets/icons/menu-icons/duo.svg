@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="32" height="24">
+
+<g transform="matrix(0.03125 0 0 0.03125 0 0)">
+	<g transform="matrix(4 0 0 4 128 0)">
+	</g>
+    <path transform="matrix(4 0 0 4 128 0)"  d="M0 0L192 0L192 192L0 192L0 0z" stroke="none" fill="none" />
+	<g transform="matrix(4 0 0 4 128 0)">
+	</g>
+    <path transform="matrix(4 0 0 4 128 0)"  d="M184 101C 181.59 147.45 143.04 184 96 184C 47.41 184 8 144.6 8 96C 8 47.39999 47.41 8 96 8L96 8L170 8C 177.67 8 184 14.33 184 22L184 22L184 101z" stroke="none" fill="#1A73E8" fill-rule="nonzero" />
+	<g transform="matrix(4 0 0 4 128 0)">
+	</g>
+    <path transform="matrix(4 0 0 4 128 0)"  d="M170 8L96 8C 47.4 8 8 47.38 8 95.95L8 95.95L8 95.93C 8.27 47.59 47.57 9 96 9L96 9L170 9C 177.68 9 184 15.33 184 23L184 23L184 22C 184 14.33 177.68 8 170 8z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" fill-opacity="0.2" />
+	<g transform="matrix(4 0 0 4 128 0)">
+	</g>
+    <path transform="matrix(4 0 0 4 128 0)"  d="M184 101L184 99C 181.59 145.46 143.05 183 96 183C 47.57 183 8.279999 143.38 8.010002 95C 8.010002 95.17 8.000002 95.83 8.000002 96C 8.000002 144.61 47.4 184.09 96 184C 143.79 183.91 181.87 147.38 184 100" stroke="none" fill="#1A237E" fill-rule="nonzero" fill-opacity="0.2" />
+	<g transform="matrix(4 0 0 4 128 0)">
+	</g>
+    <path transform="matrix(4 0 0 4 128 0)"  d="M132 113C 132 121.48 125.4 126.99 117 127L117 127L67 127C 58.61 127.01 52.01 121.54 52 113.07L52 113.07L52 118C 52.01 126.48 58.61 133.01 67 133L67 133L117 133C 125.39 132.99 132.01 126.48 132 118L132 118L132 113zM156 117C 155.97 119.47 152.69 120.82 151 119L151 119L132 100L132 105L151 124C 153 125.91 156 124.71 156 122L156 122L156 117z" stroke="none" fill="#185ABC" fill-rule="nonzero" />
+	<g transform="matrix(4 0 0 4 128 0)">
+	</g>
+    <path transform="matrix(4 0 0 4 128 0)"  d="M151 69L132 88L132 100.01L151 119C 152.77 120.88 156 119.58 156 117L156 117L156 71C 156 68.48 152.81 67.22 151 69z" stroke="none" fill="#F1F3F4" fill-rule="nonzero" />
+	<g transform="matrix(4 0 0 4 128 0)">
+	</g>
+    <path transform="matrix(4 0 0 4 128 0)"  d="M117 60L67 60C 58.61 60.01 51.99 66.74 52 75L52 75L52 113C 52.01 121.26 58.61 128.01 67 128L67 128L117 128C 125.39 127.99 132.01 121.26 132 113L132 113L132 75C 131.99 66.74 125.39 59.99 117 60z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+	<g transform="matrix(4 0 0 4 128 0)">
+	</g>
+    <path transform="matrix(4 0 0 4 128 0)"  d="M132 101.2L132.01 100L136 104L136 84L132 88L132 101.2" stroke="none" fill="#BDC1C6" fill-rule="nonzero" />
+</g>
+</svg>

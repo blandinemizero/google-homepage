@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="32" height="32">
+
+<defs>
+    <linearGradient transform="matrix(1 0 0 1 0 0)"  id="1" x1="50.003" y1="1.385" x2="50.003" y2="101.042">
+        <stop stop-color="#BF360C" offset="0%"/>
+        <stop stop-color="#BF360C" offset="100%"/>
+    </linearGradient>
+    <radialGradient cx="0.1684194%" cy="4266.147%" r="142.2608%" gradientUnits="objectBoundingBox" id="232">
+        <stop offset="0%" stop-color="#FFFFFF" stop-opacity="1"/>
+        <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+<mask id="497">
+<path  transform="matrix(1 0 0 1 0 0)"   d="M2374.783 10.68872C 2374.783 635.5097 2126.309 1235.379 1684.494 1677.194C 1242.679 2119.009 642.81 2367.483 17.98901 2367.483C -606.832 2367.483 -1206.701 2119.009 -1648.516 1677.194C -2090.331 1235.379 -2338.805 635.5097 -2338.805 10.68872C -2338.805 -614.1323 -2090.331 -1214.001 -1648.516 -1655.816C -1206.701 -2097.632 -606.832 -2346.105 17.98901 -2346.105C 642.81 -2346.105 1242.679 -2097.632 1684.494 -1655.816C 2126.309 -1214.001 2374.783 -614.1323 2374.783 10.68872z" fill="white"/>
+</mask>
+</defs>
+
+<g transform="matrix(0.0128 0 0 0.0128 0 0)">
+	<g transform="matrix(4.734849 0 0 4.734849 0 0)">
+	</g>
+    <path transform="matrix(4.734849 0 0 4.734849 0 0)"  d="M48 84L480 84L480 444L48 444L48 84z" stroke="none" fill="#0F9D58" fill-rule="nonzero" />
+	<g transform="matrix(4.734849 0 0 4.734849 0 0)">
+	</g>
+    <path transform="matrix(4.734849 0 0 4.734849 0 0)"  d="M360 276C 374.9 276 387 263.9 387 249C 387 234.1 374.9 222 360 222L360 222L360 276zM360 294C 331.1 294 300 309.3 300 328.3L300 328.3L300 348L420 348L420 328.3C 420 309.3 388.9 294 360 294zM168 276C 182.9 276 195 263.9 195 249C 195 234.1 182.9 222 168 222zM168 294C 139.1 294 108 309.3 108 328.3L108 328.3L108 348L228 348L228 328.3C 228 309.3 196.9 294 168 294z" stroke="none" fill="#57BB8A" fill-rule="nonzero" />
+	<g transform="matrix(4.734849 0 0 4.734849 0 0)">
+	</g>
+    <path transform="matrix(4.734849 0 0 4.734849 0 0)"  d="M264 252C 283.9 252 300 235.9 300 216C 300 196.1 283.9 180 264 180L264 180L264 252zM264 276C 223.5 276 180 297.5 180 324L180 324L180 348L348 348L348 324C 348 297.5 304.5 276 264 276z" stroke="none" fill="#F7F7F7" fill-rule="nonzero" />
+	<g transform="matrix(4.734849 0 0 4.734849 0 0)">
+	</g>
+    <path transform="matrix(4.734849 0 0 4.734849 0 0)"  d="M312 420L420 420L420 444L312 444L312 420z" stroke="none" fill="#F1F1F1" fill-rule="nonzero" />
+	<g transform="matrix(4.734849 0 0 4.734849 0 0)">
+	</g>
+    <path transform="matrix(4.734849 0 0 4.734849 0 0)"  d="M492 36L36 36C 16.1 36 0 52.1 0 72L0 72L0 456C 0 475.9 16.1 492 36 492L36 492L492 492C 511.9 492 528 475.9 528 456L528 456L528 72C 528 52.1 511.9 36 492 36zM480 444L48 444L48 84L480 84z" stroke="none" fill="#F4B400" fill-rule="nonzero" />
+	<g transform="matrix(4.734849 0 0 4.734849 0 0)">
+	</g>
+    <path transform="matrix(4.734849 0 0 4.734849 0 0)"  d="M492 36L36 36C 16.1 36 0 52.1 0 72L0 72L0 75C 0 55.1 16.1 39 36 39L36 39L492 39C 511.9 39 528 55.1 528 75L528 75L528 72C 528 52.1 511.9 36 492 36z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" fill-opacity="0.2" />
+	<g transform="matrix(4.734849 0 0 4.734849 0 0)">
+	</g>
+    <path transform="matrix(4.734849 0 0 4.734849 0 0)"  d="M492 489L36 489C 16.1 489 0 472.9 0 453L0 453L0 456C 0 475.9 16.1 492 36 492L36 492L492 492C 511.9 492 528 475.9 528 456L528 456L528 453C 528 472.9 511.9 489 492 489z" stroke="none" fill="#BF360C" fill-rule="nonzero" fill-opacity="0.2" />
+	<g transform="matrix(4.734849 0 0 4.734849 0 0)">
+	</g>
+    <path transform="matrix(4.734849 0 0 4.734849 0 0)"  d="M419.8 444L311.8 444L359.8 492L467.7 492L419.8 444z" stroke="none" fill="url(#1)" />
+	<g transform="matrix(4.734849 0 0 4.734849 0 0)">
+	</g>
+    <path transform="matrix(4.734849 0 0 4.734849 0 0)"  d="M48 81L480 81L480 84L48 84L48 81z" stroke="none" fill="#263238" fill-rule="nonzero" fill-opacity="0.2" />
+	<g transform="matrix(4.734849 0 0 4.734849 0 0)">
+	</g>
+    <path transform="matrix(4.734849 0 0 4.734849 0 0)"  d="M48 444L480 444L480 447L48 447L48 444z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" fill-opacity="0.2" />
+	<g transform="matrix(4.734849 0 0 4.734849 0 0)">
+	</g>
+    <path transform="matrix(4.734849 0 0 4.734849 0 0)"  d="M492 36L36 36C 16.1 36 0 52.1 0 72L0 72L0 456C 0 475.9 16.1 492 36 492L36 492L492 492C 511.9 492 528 475.9 528 456L528 456L528 72C 528 52.1 511.9 36 492 36z" stroke="none" mask="url(#497)" fill="url(#232)"  />
+</g>
+</svg>

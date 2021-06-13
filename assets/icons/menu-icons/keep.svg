@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="23" height="32">
+
+<g transform="matrix(0.71875 0 0 0.7272727 0 0)">
+	<g transform="matrix(0.5 0 0 0.5 0 0)">
+	</g>
+    <path transform="matrix(0.5 0 0 0.5 0 0)"  d="M58 88L6 88C 2.68 88 0 85.32 0 82L0 82L0 6C 0 2.68 2.68 0 6 0L6 0L42 0L64 22L64 82C 64 85.32 61.32 88 58 88z" stroke="none" fill="#FFBA00" fill-rule="nonzero" />
+	<g transform="matrix(0.5 0 0 0.5 0 0)">
+	</g>
+    <path transform="matrix(0.5 0 0 0.5 0 0)"  d="M42 0L64 22L42 22L42 0z" stroke="none" fill="#FF9500" fill-rule="nonzero" />
+	<g transform="matrix(0.5 0 0 0.5 0 0)">
+	</g>
+    <path transform="matrix(0.5 0 0 0.5 0 0)"  d="M39 59L25 59L25 64L39 64L39 59z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+	<g transform="matrix(0.5 0 0 0.5 0 0)">
+	</g>
+    <path transform="matrix(0.5 0 0 0.5 0 0)"  d="M32 30C 24.82 30 19 35.82 19 43C 19 47.64 21.42 51.7 25.08 54L25.08 54L38.88 54C 42.53 51.7 44.96 47.64 44.96 43C 44.96 35.82 39.14 30 31.96 30L31.96 30L32 30z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+</g>
+</svg>

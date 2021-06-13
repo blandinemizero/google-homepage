@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="32" height="32">
+
+<g transform="matrix(0.025 0 0 0.025 0 0)">
+	<g transform="matrix(1 0 0 1 0 0)">
+	</g>
+    <path transform="matrix(1 0 0 1 0 0)"  d="M3.999878 642.0002C 3.999878 289.6425 288.7468 4.000122 640 4.000122C 991.2532 4.000122 1276 289.6425 1276 642.0002C 1276 994.358 991.2532 1280 640 1280C 288.7468 1280 3.999878 994.358 3.999878 642.0002" stroke="#FFFFFF" stroke-width="1" fill="none" stroke-opacity="0" />
+	<g transform="matrix(1 0 0 1 320 320)">
+	</g>
+    <path transform="matrix(1 0 0 1 320 320)"  d="M160 80C 160 124.15 124.15 160 80 160C 35.85 160 0 124.15 0 80C 0 35.85 35.85 0 80 0C 124.15 0 160 35.85 160 80z" stroke="none" fill="#5F6368" fill-rule="nonzero" />
+	<g transform="matrix(1 0 0 1 320 320)">
+	</g>
+    <path transform="matrix(1 0 0 1 320 320)"  d="M400 80C 400 124.15 364.15 160 320 160C 275.85 160 240 124.15 240 80C 240 35.85 275.85 0 320 0C 364.15 0 400 35.85 400 80z" stroke="none" fill="#5F6368" fill-rule="nonzero" />
+	<g transform="matrix(1 0 0 1 320 320)">
+	</g>
+    <path transform="matrix(1 0 0 1 320 320)"  d="M160 320C 160 364.15 124.15 400 80 400C 35.85 400 0 364.15 0 320C 0 275.85 35.85 240 80 240C 124.15 240 160 275.85 160 320z" stroke="none" fill="#5F6368" fill-rule="nonzero" />
+	<g transform="matrix(1 0 0 1 320 320)">
+	</g>
+    <path transform="matrix(1 0 0 1 320 320)"  d="M160 560C 160 604.15 124.15 640 80 640C 35.85 640 0 604.15 0 560C 0 515.85 35.85 480 80 480C 124.15 480 160 515.85 160 560z" stroke="none" fill="#5F6368" fill-rule="nonzero" />
+	<g transform="matrix(1 0 0 1 320 320)">
+	</g>
+    <path transform="matrix(1 0 0 1 320 320)"  d="M400 320C 400 364.15 364.15 400 320 400C 275.85 400 240 364.15 240 320C 240 275.85 275.85 240 320 240C 364.15 240 400 275.85 400 320z" stroke="none" fill="#5F6368" fill-rule="nonzero" />
+	<g transform="matrix(1 0 0 1 320 320)">
+	</g>
+    <path transform="matrix(1 0 0 1 320 320)"  d="M400 560C 400 604.15 364.15 640 320 640C 275.85 640 240 604.15 240 560C 240 515.85 275.85 480 320 480C 364.15 480 400 515.85 400 560z" stroke="none" fill="#5F6368" fill-rule="nonzero" />
+	<g transform="matrix(1 0 0 1 320 320)">
+	</g>
+    <path transform="matrix(1 0 0 1 320 320)"  d="M640 80C 640 124.15 604.15 160 560 160C 515.85 160 480 124.15 480 80C 480 35.85 515.85 0 560 0C 604.15 0 640 35.85 640 80z" stroke="none" fill="#5F6368" fill-rule="nonzero" />
+	<g transform="matrix(1 0 0 1 320 320)">
+	</g>
+    <path transform="matrix(1 0 0 1 320 320)"  d="M640 320C 640 364.15 604.15 400 560 400C 515.85 400 480 364.15 480 320C 480 275.85 515.85 240 560 240C 604.15 240 640 275.85 640 320z" stroke="none" fill="#5F6368" fill-rule="nonzero" />
+	<g transform="matrix(1 0 0 1 320 320)">
+	</g>
+    <path transform="matrix(1 0 0 1 320 320)"  d="M640 560C 640 604.15 604.15 640 560 640C 515.85 640 480 604.15 480 560C 480 515.85 515.85 480 560 480C 604.15 480 640 515.85 640 560z" stroke="none" fill="#5F6368" fill-rule="nonzero" />
+</g>
+</svg>

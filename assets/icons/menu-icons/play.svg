@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="32" height="37">
+
+<defs>
+    <linearGradient transform="matrix(1 0 0 1 0 0)"  id="1" x1="0" y1="-0.5" x2="261.7" y2="-0.5">
+        <stop stop-color="#63BE6B" offset="0%"/>
+        <stop stop-color="#4AB96A" offset="100%"/>
+    </linearGradient>
+    <linearGradient transform="matrix(1 0 0 1 0 0)"  id="222" x1="0.152" y1="223.393" x2="179.896" y2="223.393">
+        <stop stop-color="#3EC6F2" offset="0%"/>
+        <stop stop-color="#45AFE3" offset="100%"/>
+    </linearGradient>
+    <linearGradient transform="matrix(1 0 0 1 0 0)"  id="457" x1="179.896" y1="229.464" x2="407.976" y2="229.464">
+        <stop stop-color="#FAA51A" offset="0%"/>
+        <stop stop-color="#FAC80F" offset="100%"/>
+    </linearGradient>
+    <linearGradient transform="matrix(1 0 0 1 0 0)"  id="694" x1="1.744" y1="345.521" x2="272.296" y2="345.521">
+        <stop stop-color="#EC3B50" offset="0%"/>
+        <stop stop-color="#E7515B" offset="100%"/>
+    </linearGradient>
+</defs>
+
+<g transform="matrix(0.01464531 0 0 0.0148 0 0)">
+	<g transform="matrix(5.344165 0 0 5.344165 2.290531 0)">
+	</g>
+    <path transform="matrix(5.344165 0 0 5.344165 2.290531 0)"  d="M261.7 142.3L15 1.3C 11.9 -0.5 8 -0.4 5 1.4C 1.9 3.2 0 6.4 0 10C 0 10 0.1 23 0.2 44.4L0.2 44.4L179.9 224.1L261.7 142.3z" stroke="none" fill="url(#1)" />
+	<g transform="matrix(5.344165 0 0 5.344165 2.290531 0)">
+	</g>
+    <path transform="matrix(5.344165 0 0 5.344165 2.290531 0)"  d="M0.2 44.4C 0.5 121.6 1.4 309 1.8 402.3L1.8 402.3L180 224.1L0.2 44.4z" stroke="none" fill="url(#222)" />
+	<g transform="matrix(5.344165 0 0 5.344165 2.290531 0)">
+	</g>
+    <path transform="matrix(5.344165 0 0 5.344165 2.290531 0)"  d="M402.9 223L261.7 142.3L179.8 224.1L272.2 316.5L403 240.3C 406.1 238.5 408 235.2 408 231.7C 408 228.1 406 224.8 402.9 223z" stroke="none" fill="url(#457)" />
+	<g transform="matrix(5.344165 0 0 5.344165 2.290531 0)">
+	</g>
+    <path transform="matrix(5.344165 0 0 5.344165 2.290531 0)"  d="M1.7 402.3C 1.9 435.6 2 456.9 2 456.9C 2 460.5 3.9 463.8 7 465.5C 10.1 467.3 13.9 467.3 17 465.5L17 465.5L272.3 316.6L179.9 224.2L1.7 402.3z" stroke="none" fill="url(#694)" />
+</g>
+</svg>

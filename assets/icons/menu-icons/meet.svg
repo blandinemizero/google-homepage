@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="32" height="24">
+
+<g transform="matrix(0.03125 0 0 0.03125 0 0)">
+	<g transform="matrix(10.66667 0 0 10.66667 45.33334 0)">
+	</g>
+    <path transform="matrix(10.66667 0 0 10.66667 45.33334 0)"  d="M49.5 36L58.03 45.75L69.5 53.08L71.5 36.06L69.5 19.42L57.81 25.86L49.5 36z" stroke="none" fill="#00832D" fill-rule="nonzero" />
+	<g transform="matrix(10.66667 0 0 10.66667 45.33334 0)">
+	</g>
+    <path transform="matrix(10.66667 0 0 10.66667 45.33334 0)"  d="M0 51.5L0 66C 0 69.315 2.685 72 6 72L6 72L20.5 72L23.5 61.04L20.5 51.5L10.55 48.5L0 51.5z" stroke="none" fill="#0066DA" fill-rule="nonzero" />
+	<g transform="matrix(10.66667 0 0 10.66667 45.33334 0)">
+	</g>
+    <path transform="matrix(10.66667 0 0 10.66667 45.33334 0)"  d="M20.5 0L0 20.5L10.55 23.5L20.5 20.5L23.45 11.09L20.5 0z" stroke="none" fill="#E94235" fill-rule="nonzero" />
+	<g transform="matrix(10.66667 0 0 10.66667 45.33334 0)">
+	</g>
+    <path transform="matrix(10.66667 0 0 10.66667 45.33334 0)"  d="M20.5 20.5L0 20.5L0 51.5L20.5 51.5L20.5 20.5z" stroke="none" fill="#2684FC" fill-rule="nonzero" />
+	<g transform="matrix(10.66667 0 0 10.66667 45.33334 0)">
+	</g>
+    <path transform="matrix(10.66667 0 0 10.66667 45.33334 0)"  d="M82.6 8.68L69.5 19.42L69.5 53.08L82.66 63.87C 84.63 65.41 87.51 64.005 87.51 61.5L87.51 61.5L87.51 11C 87.51 8.465 84.565 7.075 82.60001 8.68L82.60001 8.68L82.6 8.68zM49.5 36L49.5 51.5L20.5 51.5L20.5 72L63.5 72C 66.815 72 69.5 69.315 69.5 66L69.5 66L69.5 53.08z" stroke="none" fill="#00AC47" fill-rule="nonzero" />
+	<g transform="matrix(10.66667 0 0 10.66667 45.33334 0)">
+	</g>
+    <path transform="matrix(10.66667 0 0 10.66667 45.33334 0)"  d="M63.5 0L20.5 0L20.5 20.5L49.5 20.5L49.5 36L69.5 19.43L69.5 6C 69.5 2.685 66.815 0 63.5 0z" stroke="none" fill="#FFBA00" fill-rule="nonzero" />
+</g>
+</svg>
