@@ -1,38 +1,21 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="32" height="37">
-
-<defs>
-    <linearGradient transform="matrix(1 0 0 1 0 0)"  id="1" x1="0" y1="-0.5" x2="261.7" y2="-0.5">
-        <stop stop-color="#63BE6B" offset="0%"/>
-        <stop stop-color="#4AB96A" offset="100%"/>
-    </linearGradient>
-    <linearGradient transform="matrix(1 0 0 1 0 0)"  id="222" x1="0.152" y1="223.393" x2="179.896" y2="223.393">
-        <stop stop-color="#3EC6F2" offset="0%"/>
-        <stop stop-color="#45AFE3" offset="100%"/>
-    </linearGradient>
-    <linearGradient transform="matrix(1 0 0 1 0 0)"  id="457" x1="179.896" y1="229.464" x2="407.976" y2="229.464">
-        <stop stop-color="#FAA51A" offset="0%"/>
-        <stop stop-color="#FAC80F" offset="100%"/>
-    </linearGradient>
-    <linearGradient transform="matrix(1 0 0 1 0 0)"  id="694" x1="1.744" y1="345.521" x2="272.296" y2="345.521">
-        <stop stop-color="#EC3B50" offset="0%"/>
-        <stop stop-color="#E7515B" offset="100%"/>
-    </linearGradient>
-</defs>
-
-<g transform="matrix(0.01464531 0 0 0.0148 0 0)">
-	<g transform="matrix(5.344165 0 0 5.344165 2.290531 0)">
-	</g>
-    <path transform="matrix(5.344165 0 0 5.344165 2.290531 0)"  d="M261.7 142.3L15 1.3C 11.9 -0.5 8 -0.4 5 1.4C 1.9 3.2 0 6.4 0 10C 0 10 0.1 23 0.2 44.4L0.2 44.4L179.9 224.1L261.7 142.3z" stroke="none" fill="url(#1)" />
-	<g transform="matrix(5.344165 0 0 5.344165 2.290531 0)">
-	</g>
-    <path transform="matrix(5.344165 0 0 5.344165 2.290531 0)"  d="M0.2 44.4C 0.5 121.6 1.4 309 1.8 402.3L1.8 402.3L180 224.1L0.2 44.4z" stroke="none" fill="url(#222)" />
-	<g transform="matrix(5.344165 0 0 5.344165 2.290531 0)">
-	</g>
-    <path transform="matrix(5.344165 0 0 5.344165 2.290531 0)"  d="M402.9 223L261.7 142.3L179.8 224.1L272.2 316.5L403 240.3C 406.1 238.5 408 235.2 408 231.7C 408 228.1 406 224.8 402.9 223z" stroke="none" fill="url(#457)" />
-	<g transform="matrix(5.344165 0 0 5.344165 2.290531 0)">
-	</g>
-    <path transform="matrix(5.344165 0 0 5.344165 2.290531 0)"  d="M1.7 402.3C 1.9 435.6 2 456.9 2 456.9C 2 460.5 3.9 463.8 7 465.5C 10.1 467.3 13.9 467.3 17 465.5L17 465.5L272.3 316.6L179.9 224.2L1.7 402.3z" stroke="none" fill="url(#694)" />
-</g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Layer_2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" sodipodi:docname="Google_Play_logo.svg" inkscape:version="0.48.4 r9939"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="30 336.7 120.9 129.2"
+	 style="enable-background:new 30 336.7 120.9 129.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFD400;}
+	.st1{fill:#FF3333;}
+	.st2{fill:#48FF48;}
+	.st3{fill:#3BCCFF;}
+</style>
+<path id="path16" inkscape:connector-curvature="0" class="st0" d="M119.2,421.2c15.3-8.4,27-14.8,28-15.3c3.2-1.7,6.5-6.2,0-9.7
+	c-2.1-1.1-13.4-7.3-28-15.3l-20.1,20.2L119.2,421.2z"/>
+<path id="path23" inkscape:connector-curvature="0" class="st1" d="M99.1,401.1l-64.2,64.7c1.5,0.2,3.2-0.2,5.2-1.3
+	c4.2-2.3,48.8-26.7,79.1-43.3L99.1,401.1L99.1,401.1z"/>
+<path id="path30" inkscape:connector-curvature="0" class="st2" d="M99.1,401.1l20.1-20.2c0,0-74.6-40.7-79.1-43.1
+	c-1.7-1-3.6-1.3-5.3-1L99.1,401.1z"/>
+<path id="path37" inkscape:connector-curvature="0" class="st3" d="M99.1,401.1l-64.3-64.3c-2.6,0.6-4.8,2.9-4.8,7.6
+	c0,7.5,0,107.5,0,113.8c0,4.3,1.7,7.4,4.9,7.7L99.1,401.1z"/>
 </svg>
