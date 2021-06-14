@@ -206,7 +206,6 @@ a,
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-
 }
 
 .app-links {
@@ -248,6 +247,21 @@ a,
 
 .app-line {
 	border: 1px solid #e8f0fe;
-	width: 90%;
+	width: 100%;
 	grid-column: 1 / 4;
+}
+
+.dropdown-btn {
+	padding-top: 20px;
+}
+.more-btn {
+	width: 164px;
+	height: 38px;
+	border: 1px solid #cce0fc;
+	color: #1a75eb;
+	border-radius: 4px;
+	background: #fff;
+}
+.more-btn:hover {
+	background: #f8fbff;
 }
