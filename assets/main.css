@@ -72,15 +72,6 @@ box-sizing: border-box;
 	margin-right: 19.2px;
 }
 
-.apps {
-	border-radius: 50%;
-	border: 5px solid #fff;
-}
-.apps:hover{
-	background: #f8f9fa;
-	border: 5px solid rgba(0,0,0,0);
-}
-
 .profile-img {
   height: 33px;
   border-radius: 50%;
@@ -215,6 +206,31 @@ a,
 	right: 15px;
 	top: 66px;
 	background: #fff;
+	visibility: hidden;
+}
+
+.apps {
+	border-radius: 50%;
+}
+
+.apps-menu-btn {
+	width: 44px;
+	height: 44px;
+	border-radius: 50%;
+	border: 0px;
+	background: rgba(0,0,0,0);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.apps-menu-btn:hover{
+	background: #eff0f0;
+}
+.apps-menu-btn:focus {
+	background: #d9d9db;
+}
+.apps-menu-btn:focus + .dropdown-menu {
+	visibility: visible;
 }
 
 .app-links {
