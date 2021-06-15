@@ -52,6 +52,16 @@ table {
 box-sizing: border-box;
 }
 
+/* MAIN */
+.main {
+  width: 100vw;
+  height: 74.6vh;
+	box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 /* HEADER */
 .header {
 	height: 60px;
@@ -83,22 +93,13 @@ box-sizing: border-box;
 }
 
 /* SEARCH FIELD */
-.main {
-  width: 100vw;
-  height: 100vh;
-	box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
 .form {
   border: 1px solid #dfe1e5;
   border-radius: 50px;
   min-width: 443px;
   width: 72.3%;
-  max-width: 600px;
-  height: 44px;
+  max-width: 580.5px;
+  height: 46px;
   margin-top: 26px;
   display: flex;
   flex-direction: column;
@@ -131,7 +132,7 @@ box-sizing: border-box;
 	font-weight: 300;
 	margin-right: 12px;
 }
-.voice-search-icon {
+.mic-icon {
   height: 20px;
 }
 
@@ -165,7 +166,8 @@ a,
 .google-search-btn,
 .lucky-search-btn,
 .apps-tooltip,
-.profile-tooltip {
+.profile-tooltip,
+.mic-tooltip {
   font-family: arial, sans-serif;
   font-size: 14px;
   color: #3c4043;
@@ -203,6 +205,11 @@ a,
 .profile-tooltip {
 	font-size: 13px;
 	letter-spacing: .5px;
+}
+.mic-tooltip {
+	font-size: 11px;
+	font-weight: 700;
+	color: #fff;
 }
 /* DROP DOWN MENU */
 .app-icons {
@@ -330,17 +337,55 @@ a,
 	padding: 6px;
 	visibility: hidden;
 }
-
 .profile-link .profile-tooltip {
   right: 8px;
 }
-
 .profile-tooltip {
 	width: 190px;
 	height: 60px;
 }
-
 .apps-menu:hover .apps-tooltip,
 .profile-link:hover .profile-tooltip {
 	visibility: visible;
+}
+
+.mic-tooltip {
+	position: fixed;
+	top: 230px;
+	right: 120px;
+	background: #000;
+	padding: 6px;
+	visibility: hidden;
+}
+.mic-tooltip:before {
+      content: "";
+      position: absolute;
+      right: 100%;
+      left: 43px;
+			bottom: 20px;
+			width: 0;
+      height: 0;
+      border-left: 8px solid transparent;
+      border-right: 8px solid transparent;
+      border-bottom: 10px solid #000;
+    }
+.mic-icon:hover + .mic-tooltip {
+	visibility: visible;
+}
+
+/* FOOTER */
+.footer {
+  width: 100vw;
+	height: 95px;
+	border: 1px solid #dadce0;
+	background: #f2f2f2;
+}
+
+.footer a {
+	display: block;
+	visibility: hidden;
+}
+
+.settings {
+	height: 20px;
 }
