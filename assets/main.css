@@ -167,7 +167,9 @@ a,
 .lucky-search-btn,
 .apps-tooltip,
 .profile-tooltip,
-.mic-tooltip {
+.mic-tooltip,
+.sustainability,
+.settings {
   font-family: arial, sans-serif;
   font-size: 14px;
   color: #3c4043;
@@ -211,6 +213,11 @@ a,
 	font-weight: 700;
 	color: #fff;
 }
+
+.settings-links {
+	text-align: left;
+}
+
 /* DROP DOWN MENU */
 .app-icons {
 	height: 32px;
@@ -376,16 +383,55 @@ a,
 /* FOOTER */
 .footer {
   width: 100vw;
-	height: 95px;
+	height: 96px;
 	border: 1px solid #dadce0;
 	background: #f2f2f2;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-evenly;
 }
 
-.footer a {
-	display: block;
-	visibility: hidden;
+.sustainability {
+	padding-bottom: 6.5px;
+}
+.leaf{
+	width: 12px;
 }
 
+.footer-links {
+	display: flex;
+	flex-direction: row;
+	justify-content: start;
+}
+.footer-links-1 {
+	margin-right: 60px;
+}
+.footer-links a {
+	margin-right: 26px;
+}
+.footer-links-2 {
+	margin-left: 20px;
+}
 .settings {
-	height: 20px;
+	border: none;
+}
+
+.footer .settings-links {
+	visibility:
+
+}
+
+.settings-links {
+	width: 155px;
+	height: 278px;
+	padding-left: 18px;
+	border: 1px solid #000;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	position: fixed;
+	bottom: 50px;
+	right: 70px;
+
 }
