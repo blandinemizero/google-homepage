@@ -234,7 +234,6 @@ a,
 	overflow-x: hidden;
 	display: flex;
 	flex-direction: column;
-	vertical-align: none;
 	align-items: center;
 	position: fixed;
 	right: 15px;
@@ -399,27 +398,13 @@ a,
 	width: 12px;
 }
 
-.footer-links {
-	display: flex;
-	flex-direction: row;
-	justify-content: start;
-}
-.footer-links-1 {
-	margin-right: 60px;
-}
-.footer-links a {
-	margin-right: 26px;
-}
-.footer-links-2 {
-	margin-left: 20px;
-}
 .settings {
 	border: none;
 }
 
-.footer .settings-links {
-	visibility:
-
+.footer-links-1,
+.footer-links-2 {
+	display: inline-block;
 }
 
 .settings-links {
@@ -433,5 +418,12 @@ a,
 	position: fixed;
 	bottom: 50px;
 	right: 70px;
-
+	visibility: hidden;
 }
+
+.settings:focus .settings-links {
+	visibility: visible;
+}
+
+
+/* MEDIA QUERIES */
