@@ -11,15 +11,15 @@
   <body>
     <header class="header">
       <nav class="nav">
-        <a class="gmail" href="https://mail.google.com/">Gmail</a>
-        <a class="images" href="https://images.google.com/">Images</a>
+        <a class="gmail-hyperlink" href="https://mail.google.com/">Gmail</a>
+        <a class="images-hyperlink" href="https://images.google.com/">Images</a>
         <div class="apps-menu">
           <button class="apps-menu-btn">
             <img class="apps" src="assets/icons/app2.svg" alt="apps icon">
-            <span class="apps-tooltip">
-              <h4 class="title">Google apps<h4>
-            </span>
           </button>
+          <div class="apps-tooltip">
+            <h4 class="title">Google apps</h4>
+          </div>
           <div class="dropdown-menu">
             <div class="my-apps">
               <a class="app-account app-links" href="https://myaccount.google.com/">
@@ -160,25 +160,20 @@
                 <br>Forms
               </a>
             </div>
-            <div class="dropdown-btn">
-              <button class="more-btn">
-              <a href="https://www.google.com/intl/en/about/products">More From Google</a>
-              </button>
-            </div>
+            <a class="more-btn" href="https://www.google.com/intl/en/about/products">More From Google</a>
           </div>
         </div>
-        <a class="profile-link" src="">
+        <a class="profile-link" href="">
           <img class="profile-img" src="https://avatars.githubusercontent.com/u/78643936?v=4" alt="github profile image">
-          <span class="profile-tooltip">
-          <h4 class="title">Web Dev</h4>
-          <p class="author">Blandine Mizero</p>
-          <p class="author-url">github.com/blandinemizero</p>
-          </span>
+          <div class="profile-tooltip">
+            <h4 class="title">Web Dev</h4>
+            <p class="author">Blandine Mizero</p>
+            <p class="author-url">github.com/blandinemizero</p>
+          </div>
         </a>
       </nav>
     </header>
     <main class="main">
-
       <img src="assets/images/googlelogo.png" alt="google logo">
       <form action="/search" method="get" class="form">
         <fieldset class="search-field">
@@ -195,30 +190,28 @@
     </main>
     <footer class="footer">
       <div class="sustainability">
-        <img class="leaf" src="assets/images/footer/leaf.png">
+        <img class="leaf" src="assets/images/footer/leaf.png" alt="Leaf icon">
         <span>Carbon neutral since 2007</span>
       </div>
       <div class="footer-links">
         <div class="footer-links-1">
-          <a href="https://about.google.com/">About</a>
-          <a href="https://google.com/ads/">Advertising</a>
-          <a href="https://google.com/services/">Business</a>
-          <a class="how-search-works-link" href="https://google.com/search/howsearchworks/">How Search works</a>
+          <a class="links-footer" href="https://about.google.com/">About</a>
+          <a class="links-footer" href="https://google.com/ads/">Advertising</a>
+          <a class="links-footer" href="https://google.com/services/">Business</a>
+          <a class="links-footer" class="how-search-works-link" href="https://google.com/search/howsearchworks/">How Search works</a>
         </div>
         <div class="footer-links-2">
-          <a href="https://policies.google.com/privacy/">Privacy</a>
-          <a href="https://policies.google.com/terms/">Terms</a>
-          <button class="settings">
-          Settings
+          <a class="links-footer" href="https://policies.google.com/privacy/">Privacy</a>
+          <a class="links-footer" href="https://policies.google.com/terms/">Terms</a>
+          <button class="settings links-footer">Settings</button>
           <div class="settings-links">
-              <a href="https://google.com/preferences">Search settings</a>
-              <a href="https://google.com/advanced-search">Advanced search</a>
-              <a href="https://myactivity.google.com/privacyadvisor/search">Your data in Search</a>
-              <a href="https://myactivity.google.com/product/search">Search history</a>
-              <a href="https://support.google.com/websearch">Search help</a>
-              <a href="https://google.com/preferences">Send feedback</a>
-            </div>
-          </button>
+            <a href="https://google.com/preferences">Search settings</a>
+            <a href="https://google.com/advanced-search">Advanced search</a>
+            <a href="https://myactivity.google.com/privacyadvisor/search">Your data in Search</a>
+            <a href="https://myactivity.google.com/product/search">Search history</a>
+            <a href="https://support.google.com/websearch">Search help</a>
+            <a href="https://google.com/preferences">Send feedback</a>
+          </div>
         </div>
       </div>
     </footer>
